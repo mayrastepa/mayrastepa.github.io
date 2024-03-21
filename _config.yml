@@ -63,7 +63,7 @@ author:
   bio    : Welcome to my nifty corner of the internet.
   links:
     - label: "Behance"
-      icon: "<i class="fa-brands fa-square-behance"
+      icon: "fa-brands fa-square-behance"
       url: "https://www.behance.net/lastepa"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
