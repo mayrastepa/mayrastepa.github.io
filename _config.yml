@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : Welcome to my nifty corner of the internet.
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-behance"
-      url: "https://https://www.behance.net/lastepa"
+    - label: "Behance"
+      icon: "fas fa-fw fa-behance.jpg"
+      url: "https://www.behance.net/lastepa"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
