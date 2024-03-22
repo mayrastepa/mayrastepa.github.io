@@ -1,9 +1,10 @@
 main:
   - title: "Home"
-    url: /Home/
+    url: /home/
   - title: "Stepart"
-    url: /Stepart/
-  - title: "About"
-    url: /About/
-- title: "Contact"
-    url: /Contact/
+    url: /stepart/
+  - title: "About me"
+    url: /about me/
+  - title: "Thoughts"
+    url: /thoughts/
+    
