@@ -1,10 +1,8 @@
 main:
-  - title: "Home"
-    url: /home/
   - title: "Stepart"
     url: /stepart/
   - title: "Drawing Journal"
     url: /drawing journal/
-  - title: "About me"
+  - title: "About Me"
     url: /about me/
     
