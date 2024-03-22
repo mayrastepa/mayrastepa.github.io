@@ -3,8 +3,8 @@ main:
     url: /home/
   - title: "Stepart"
     url: /stepart/
+  - title: "Drawing journal"
+    url: /drawing journal/
   - title: "About me"
     url: /about me/
-  - title: "Thoughts"
-    url: /thoughts/
     
