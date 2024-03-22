@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /Home/
-  - title: "StepArt"
-    url: /StepArt/
+  - title: "Stepart"
+    url: /Stepart/
   - title: "About"
     url: /About/
 - title: "Contact"
