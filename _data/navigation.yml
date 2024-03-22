@@ -1,9 +1,11 @@
 main:
+  - title: "Home"
+    url: /Home/
   - title: "StepArt"
     url: /StepArt/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About me"
-    url: /about/
+  - title: "About"
+    url: /About/
+  - title: "Thoughts"
+    url: /Thoughts/
+- title: "Contact"
+    url: /Contact/
